@@ -1,6 +1,6 @@
 # Use Unsupervised Machine Learning to analyze what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped toward creating a classification
 
-## Objectives: The goals for this challenge are to:
+# Objectives: The goals for this challenge are to:
 - Prepare the data for dimensions reduction with PCA and clustering using K-means
 - Reduce data dimensions using PCA algorithms from sklearn
 - Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn
